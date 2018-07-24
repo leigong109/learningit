@@ -1,0 +1,13 @@
+Jul-23-Lei-Shanghai-Todo
+1.Keep getting familiar with the way to set up a project.
+2.Make led tests on stm32f103
+
+Jul-23-Lei-Shanghai-Wrap-up
+1.Practised the git
+2.Learned about the initialization of gpio
+
+Jul-24-Lei-Shanghai-Todo
+1.Practise branch management on git
+2.Learn the initialization of other components
+
+JUl-24-Lei-Shanghai-Wrap-Up
