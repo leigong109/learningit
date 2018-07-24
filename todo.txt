@@ -11,7 +11,4 @@ Jul-24-Lei-Shanghai-Todo
 2.Learn the initialization of other components
 
 JUl-24-Lei-Shanghai-Wrap-Up
-1.Practised the use of remote repository of git
-2.sfkjsdfkjsdfkajsfd
-3.
-4.
+1.Practised the use of remote repository of git.
